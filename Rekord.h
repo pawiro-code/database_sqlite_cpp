@@ -1,4 +1,3 @@
-#pragma once
 #ifndef REKOR_H
 #define REKORD_H
 
